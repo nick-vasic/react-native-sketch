@@ -1,7 +1,7 @@
 import { ViewStyle } from 'react-native';
 
 export interface OnChangeProps {
-    base64URL: string
+    base64DataUrl: string
 }
 
 export interface OnErrorProps {
