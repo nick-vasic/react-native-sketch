@@ -18,7 +18,7 @@ React Native wrapper around @[szimek's](https://github.com/szimek) HTML5 Canvas 
 ## Installation
 
 ```sh
-$ yarn add react-native-signature-pad
+$ yarn add react-native-signature-pad-v2
 ```
 
 ## Example
