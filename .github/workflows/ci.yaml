@@ -1,4 +1,7 @@
-on: push
+name: Publish Package to npmjs
+on:
+  release:
+    types: [created]
 
 jobs:
   publish:
