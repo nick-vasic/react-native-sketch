@@ -6,7 +6,7 @@
 React Native wrapper around @[szimek's](https://github.com/szimek) HTML5 Canvas based [Signature Pad](https://github.com/szimek/signature_pad)
 
 - Supports Android and iOS
-- Pure JavaScript implementation with no native dependencies
+- Pure JavaScript implementation with no native dependencies 
 - Tested with RN 0.20
 - Can easily be rotated using the "transform" style
 - Generates a base64 encoded png image of the signature
